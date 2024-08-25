@@ -1,0 +1,33 @@
+OOPS Concept
+C#.NET
+.net Core
+ASP.net Core MVC
+Web Api
+Entity Framework
+WCF
+LINQ
+MS SQL
+NUNIT
+E2E
+Project Automation
+
+HTML/CSS
+Bootstrap/Material UI
+JavaScript (ES6)
+Angular
+React JS
+Typescript
+REDUX
+NGRX
+RXJS
+
+MS Azure / SAAS
+MS Azure Pipeline Development
+
+
+
+
+
+
+
+
